@@ -1,0 +1,4 @@
+Definição de onda de calor,Eventos no total,Eventos no teste,Dias em onda
+"Oficial (OMM/INMET): ≥ 5 °C acima da média do mês, por ≥ 5 dias",7,1,45
+"Aviso laranja (INMET): ≥ 5 °C acima da média do mês, por ≥ 3 dias",12,2,60
+"Operacional (nossa): máxima ≥ 32.5 °C, por ≥ 3 dias",17,2,82
